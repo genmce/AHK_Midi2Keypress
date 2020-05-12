@@ -1,11 +1,7 @@
 /* 
 May 12, 2020 - genmce
  
-This is for converting midi  to key stroke 
-
- Midi input and selection working
- Midi monitor working - disabled
- need to modify for cc or NOTE on message or not message on x32  and send the keystroke 1 time.
+This is for converting midi input to key stroke 
  
 ;~ -------------------------------------------------------------------------------------------------
 ;~ --------------------                   Warning - "!!!!!"                    ---------------------
